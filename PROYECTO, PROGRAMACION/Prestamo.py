@@ -5,4 +5,4 @@ class Prestamo(Libro):
         self.usuario = usuario
         self.dias_retraso = dias_retraso
     def calcular_multa(self):
-        return 0
+        return 0 
